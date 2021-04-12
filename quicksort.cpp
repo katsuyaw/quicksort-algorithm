@@ -39,7 +39,6 @@ void quickSort(T* arr, int start, int end) {
 }
 
 
-
 int main() {
     int size = 10;
     int arr[size];
